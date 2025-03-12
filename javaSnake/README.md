@@ -25,9 +25,6 @@ A simple Snake game implemented in Java using the `javax.swing` library for the 
    ```
 
 ## 📷 Screenshots
-*(Add images of the game in action here)*
 
-## 📜 License
-This project is distributed under the MIT license. See the `LICENSE` file for details.
 
 
